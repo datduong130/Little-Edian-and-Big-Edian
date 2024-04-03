@@ -1,6 +1,3 @@
-Dưới đây là nội dung đã được chuyển đổi sang định dạng Markdown:
-
----
 
 ## Little Endian và Big Endian
 
@@ -30,6 +27,3 @@ Cả Little Endian và Big Endian đều có những lợi ích riêng của ch�
 
 Không có một phương thức nào tốt hơn phương thức khác. Mỗi phương thức có ưu nhược điểm riêng, và lựa chọn phụ thuộc vào ngữ cảnh sử dụng và yêu cầu cụ thể của dự án.
 
---- 
-
-Hy vọng thông tin trên sẽ giúp bạn hiểu rõ hơn về Little Endian và Big Endian!
